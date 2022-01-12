@@ -38,6 +38,8 @@
 
 ![image](https://user-images.githubusercontent.com/93835587/149221654-032e7977-154f-4098-b794-668af4c59ab5.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\Ecuaciones~lazo~en~la~forma~estandar~para~el~circuito~puente~T\\\begin{cases}Espira~A&space;&&space;\text{5.48}I_{A}-{3.3}I_{B}-{1.5}I_{C}=0&space;\\Espira~B&space;&&space;\text{-3.3}I_{A}&plus;{4.12}I_{B}-{0.82}I_{C}=0&space;\\Espira~C&&space;\text{-1.5}I_{A}-{0.82}I_{B}&plus;{4.52}I_{C}=0&space;\\\end{cases}&space;" title="\\Respuesta\\Ecuaciones~lazo~en~la~forma~estandar~para~el~circuito~puente~T\\\begin{cases}Espira~A & \text{5.48}I_{A}-{3.3}I_{B}-{1.5}I_{C}=0 \\Espira~B & \text{-3.3}I_{A}+{4.12}I_{B}-{0.82}I_{C}=0 \\Espira~C& \text{-1.5}I_{A}-{0.82}I_{B}+{4.52}I_{C}=0 \\\end{cases} " />
+
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
 de la corriente. 
 
