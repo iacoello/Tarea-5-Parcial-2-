@@ -64,6 +64,8 @@ de sección transversal mide 150 cm2?
 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
 flujo en gauss.
 
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~densidad~de~flujo~en~gauss~es~de\\1000G&space;" title="\\Respuesta\\La~densidad~de~flujo~en~gauss~es~de\\1000G " />
+
 7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
 750 x 10-6 Wb/At·m?
 
