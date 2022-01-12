@@ -45,7 +45,7 @@ de la corriente.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221713-0cb9e640-511d-45e8-8718-be69f2965576.png)
 
-29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221845-25e63a20-6276-4106-808f-a4f42e0263d3.png)
 
