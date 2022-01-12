@@ -69,6 +69,7 @@ flujo en gauss.
 7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
 750 x 10-6 Wb/At·m?
 
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~permeabilidad~relativa~es~de~597\\Solucion\\B=&space;\frac{\mu&space;_{0}&space;}{4\pi}\\B=&space;\frac{750\times&space;10^{-6}}{4\pi}&space;\\B=5.968310\times&space;10^{-6}\to&space;597" title="\\Respuesta\\La~permeabilidad~relativa~es~de~597\\Solucion\\B= \frac{\mu _{0} }{4\pi}\\B= \frac{750\times 10^{-6}}{4\pi} \\B=5.968310\times 10^{-6}\to 597" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
