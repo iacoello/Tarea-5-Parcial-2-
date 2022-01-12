@@ -52,15 +52,15 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221956-78c7ebe2-87d9-4bab-b3b1-060578675355.png)
 
-1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
-3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10-66 T y el área
+3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10-66 T y el área
 de sección transversal mide 150 cm2?
 
-5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
 flujo en gauss.
 
-7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
+7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
 750 x 10-6 Wb/At·m?
 
 
