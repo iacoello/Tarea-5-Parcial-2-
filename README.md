@@ -59,7 +59,7 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10-66 T y el área
 de sección transversal mide 150 cm2?
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\Flujo~magnetico=\Phi&space;=B\cdot&space;A\\Donde~A\to&space;Area~del~campo~magnetico~y~B\to&space;Campo~magnetico\\&space;Solucion\\\Phi&space;=B\cdot&space;A&space;\\\Phi&space;=2500\times&space;10^{-66}\cdot&space;150\\3.75\times&space;10^{-60}&space;\to&space;37.5\mu&space;Wb" title="\\Respuesta\\Flujo~magnetico=\Phi =B\cdot A\\Donde~A\to Area~del~campo~magnetico~y~B\to Campo~magnetico\\ Solucion\\\Phi =B\cdot A \\\Phi =2500\times 10^{-66}\cdot 150\\3.75\times 10^{-60} \to 37.5\mu Wb" />
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\Flujo~magnetico=\Phi&space;=B\cdot&space;A\\Donde~A\to&space;Area~del~campo~magnetico~y~B\to&space;Campo~magnetico\\&space;Solucion\\\Phi&space;=B\cdot&space;A&space;\\\Phi&space;=2500\times&space;10^{-66}\cdot&space;150\\\Phi&space;=3.75\times&space;10^{-60}&space;\to&space;37.5\mu&space;Wb" title="\\Respuesta\\Flujo~magnetico=\Phi =B\cdot A\\Donde~A\to Area~del~campo~magnetico~y~B\to Campo~magnetico\\ Solucion\\\Phi =B\cdot A \\\Phi =2500\times 10^{-66}\cdot 150\\\Phi =3.75\times 10^{-60} \to 37.5\mu Wb" />
 
 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
 flujo en gauss.
