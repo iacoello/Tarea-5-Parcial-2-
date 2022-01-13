@@ -39,6 +39,32 @@ Desarrollar los ejercicios de la unidad 10
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+5. Evalúe cada uno de los determinantes:
+
+7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
+en la figura 9-26.
+
+13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
+la polaridad real.
+
+15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
+
+17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura
+9-28.
+
+21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
 ![image](https://user-images.githubusercontent.com/93835587/149219324-1b73200d-163f-4255-b747-883604aabf9e.png)
