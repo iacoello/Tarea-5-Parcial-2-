@@ -19,9 +19,15 @@
 
 **1. OBJETIVOS**
 
+Desarrollar los ejercicios propuestos en el desarrollo de las unidades nueve y diez referentes a los circuitos y sus metodos de simplificacion ara su posterior reslucion apartir de ecuaciones por rtamas de corriente. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.2 OBJETIVOS ESPECIFICOS** 
+
+Desarrollar los ejercicios de la unidad 9
+
+Desarrollar los ejercicios de la unidad 10
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,6 +90,8 @@ flujo en gauss.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5.CONCLUCIONES**
+
+En conclucion los metodos de resolucion desempeñan una forma simplificada para la resolucion de los ejercicios de circuitos electricos que requieren de un analisis especifico o mas profundo o por lo minimo mas rapidos, estos metodos dependeran de los tipos de ejercicio y del concepto del mismo asi creando una gran variedad de formas de resolucion. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
