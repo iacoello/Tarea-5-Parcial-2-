@@ -96,6 +96,8 @@ de la corriente.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221713-0cb9e640-511d-45e8-8718-be69f2965576.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\I_{1}=&space;\frac{30V-V_{AB}}{82\mho&space;}\to&space;I_{1}=&space;\frac{30V-28.3V}{82\mho&space;}&space;\to&space;I_{1}=20.6mA&space;\\I_{2}=&space;\frac{V_{AB}-40}{68\mho&space;}&space;\to&space;I_{2}=&space;\frac{28.3V-40}{68\mho&space;}\to&space;I_{2}=&space;-172mA\\I_{3}=&space;\frac{V_{AB}}{147\mho}\to&space;\\I_{3}=&space;\frac{28.3}{147\mho}\to&space;I_{3}=&space;193mA" title="\\I_{1}= \frac{30V-V_{AB}}{82\mho }\to I_{1}= \frac{30V-28.3V}{82\mho } \to I_{1}=20.6mA \\I_{2}= \frac{V_{AB}-40}{68\mho } \to I_{2}= \frac{28.3V-40}{68\mho }\to I_{2}= -172mA\\I_{3}= \frac{V_{AB}}{147\mho}\to \\I_{3}= \frac{28.3}{147\mho}\to I_{3}= 193mA" />
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221845-25e63a20-6276-4106-808f-a4f42e0263d3.png)
