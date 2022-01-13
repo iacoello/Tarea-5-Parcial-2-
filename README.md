@@ -104,6 +104,8 @@ de la corriente.
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO_{A}\to&space;&space;I_{1}-I_{2}-I_{3}=&space;0\\NODO_{B}&space;\to&space;&space;I_{3}-I_{4}-I_{5}=&space;0\\I_{1}&space;=&space;\frac{9V-V_{A}}{R_{1}}\\I_{2}=&space;\frac{V_{A}}{R_{2}}\\I_{3}=&space;\frac{V_{A}-V_{B}}{R_{3}}\\I_{4}=&space;\frac{V_{B}&plus;4.5V}{R_{4}}\\I_{5}=&space;&space;\frac{V_{B}&plus;1.5V}{R_{5}}" title="\\NODO_{A}\to I_{1}-I_{2}-I_{3}= 0\\NODO_{B} \to I_{3}-I_{4}-I_{5}= 0\\I_{1} = \frac{9V-V_{A}}{R_{1}}\\I_{2}= \frac{V_{A}}{R_{2}}\\I_{3}= \frac{V_{A}-V_{B}}{R_{3}}\\I_{4}= \frac{V_{B}+4.5V}{R_{4}}\\I_{5}= \frac{V_{B}+1.5V}{R_{5}}" />
 
+<img src="https://latex.codecogs.com/svg.image?\\NODO_{A}\to&space;&space;I_{1}-I_{2}-I_{3}=&space;0\\-0.0659V_{A}&plus;0.0109V_{B}=&space;-0.1607\\\\NODO_{B}&space;\to&space;&space;I_{3}-I_{4}-I_{5}=&space;0\\0.0109V_{A}-0.0535V_{B}=&space;-0.3193" title="\\NODO_{A}\to I_{1}-I_{2}-I_{3}= 0\\-0.0659V_{A}+0.0109V_{B}= -0.1607\\\\NODO_{B} \to I_{3}-I_{4}-I_{5}= 0\\0.0109V_{A}-0.0535V_{B}= -0.3193" />
+
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
 
