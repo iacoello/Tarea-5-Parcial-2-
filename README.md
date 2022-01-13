@@ -55,9 +55,21 @@ I2=-15/105
 
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
+<img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}-1&space;&&space;2&space;\\&space;7&&space;3&space;\\\end{vmatrix}" title="\begin{vmatrix}-1 & 2 \\ 7& 3 \\\end{vmatrix}" />
 
+<img src="https://latex.codecogs.com/svg.image?(3)(4)-(6)(2)/-17=0" title="(3)(4)-(6)(2)/-17=0" />
+
+<img src="https://latex.codecogs.com/svg.image?(-1)(6)-(7)(4)/-17=2" title="(-1)(6)-(7)(4)/-17=2" />
 
 5. Evalúe cada uno de los determinantes:
+
+<img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}25&space;&0&space;&space;&&space;-20&space;\\&space;10&&space;12&space;&&space;5&space;\\&space;-8&30&space;&space;&&space;16&space;\\&space;25&&space;0&space;&-20&space;&space;\\&space;10&12&space;&space;&&space;5&space;\\\end{vmatrix}" title="\begin{vmatrix}25 &0 & -20 \\ 10& 12 & 5 \\ -8&30 & 16 \\ 25& 0 &-20 \\ 10&12 & 5 \\\end{vmatrix}" />
+
+<img src="https://latex.codecogs.com/svg.image?=(-4800-6000030)-(1920&plus;13705&plus;0)=-16470" title="=(-4800-6000030)-(1920+13705+0)=-16470" />
+
+<img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}1.08&space;&1.75&space;&space;&&space;-0.53&space;\\&space;0&&space;2.12&space;&&space;-0.98&space;\\&space;1&&space;3.49&space;&&space;-105&space;\\&space;1.08&&space;1.75&space;&0.55&space;&space;\\&space;0&2.12&&space;-0.98&space;\\\end{vmatrix}" title="\begin{vmatrix}1.08 &1.75 & -0.53 \\ 0& 2.12 & -0.98 \\ 1& 3.49 & -105 \\ 1.08& 1.75 &0.55 \\ 0&2.12& -0.98 \\\end{vmatrix}" />
+
+<img src="https://latex.codecogs.com/svg.image?=(-2.40&plus;0-1.715)-(1.166-3.69&plus;0)=-1.631" title="=(-2.40+0-1.715)-(1.166-3.69+0)=-1.631" />
 
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
@@ -103,8 +115,6 @@ de la corriente.
 ![image](https://user-images.githubusercontent.com/93835587/149221845-25e63a20-6276-4106-808f-a4f42e0263d3.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO_{A}\to&space;&space;I_{1}-I_{2}-I_{3}=&space;0\\NODO_{B}&space;\to&space;&space;I_{3}-I_{4}-I_{5}=&space;0\\I_{1}&space;=&space;\frac{9V-V_{A}}{R_{1}}\\I_{2}=&space;\frac{V_{A}}{R_{2}}\\I_{3}=&space;\frac{V_{A}-V_{B}}{R_{3}}\\I_{4}=&space;\frac{V_{B}&plus;4.5V}{R_{4}}\\I_{5}=&space;&space;\frac{V_{B}&plus;1.5V}{R_{5}}" title="\\NODO_{A}\to I_{1}-I_{2}-I_{3}= 0\\NODO_{B} \to I_{3}-I_{4}-I_{5}= 0\\I_{1} = \frac{9V-V_{A}}{R_{1}}\\I_{2}= \frac{V_{A}}{R_{2}}\\I_{3}= \frac{V_{A}-V_{B}}{R_{3}}\\I_{4}= \frac{V_{B}+4.5V}{R_{4}}\\I_{5}= \frac{V_{B}+1.5V}{R_{5}}" />
-
-<img src="https://latex.codecogs.com/svg.image?\\NODO_{A}\to&space;&space;I_{1}-I_{2}-I_{3}=&space;0\\-0.0659V_{A}&plus;0.0109V_{B}=&space;-0.1607\\\\NODO_{B}&space;\to&space;&space;I_{3}-I_{4}-I_{5}=&space;0\\0.0109V_{A}-0.0535V_{B}=&space;-0.3193" title="\\NODO_{A}\to I_{1}-I_{2}-I_{3}= 0\\-0.0659V_{A}+0.0109V_{B}= -0.1607\\\\NODO_{B} \to I_{3}-I_{4}-I_{5}= 0\\0.0109V_{A}-0.0535V_{B}= -0.3193" />
 
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
