@@ -41,7 +41,21 @@ Desarrollar los ejercicios de la unidad 10
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
+100 I1+ 50I2=30
+
+75I1+90I2=15
+
+I1=30* 50I2/100
+
+105I2=30-45
+
+I2=-15/105
+
+18.2mA
+
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+
 
 5. Evalúe cada uno de los determinantes:
 
@@ -51,6 +65,8 @@ Desarrollar los ejercicios de la unidad 10
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
 en la figura 9-26.
+
+I1-I2+I3=0
 
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
 la polaridad real.
