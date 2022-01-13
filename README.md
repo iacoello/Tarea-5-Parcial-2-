@@ -153,6 +153,8 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221956-78c7ebe2-87d9-4bab-b3b1-060578675355.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\I_{7}=\frac{4.32V}{2k\mho&space;}&space;\to&space;I_{7}=2.16mA\\V_{C}=&space;4.32V-20V\to&space;V_{C}=-15.7mA\\I_{6}=\frac{-5.25&plus;15.7V}{20k\mho}\to&space;I_{6}=522\mu&space;A\\I_{4}=&space;\frac{5.25}{16k\mho}\to&space;I_{4}=&space;328&space;\mu&space;A\\I_{2}=&space;\frac{3.70V}{10k\mho}\to&space;I_{2}=370&space;\mu&space;A\\I_{8}=&space;1.64mA" title="\\I_{7}=\frac{4.32V}{2k\mho } \to I_{7}=2.16mA\\V_{C}= 4.32V-20V\to V_{C}=-15.7mA\\I_{6}=\frac{-5.25+15.7V}{20k\mho}\to I_{6}=522\mu A\\I_{4}= \frac{5.25}{16k\mho}\to I_{4}= 328 \mu A\\I_{2}= \frac{3.70V}{10k\mho}\to I_{2}=370 \mu A\\I_{8}= 1.64mA" />
+
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~densidad~de~flujo~disminuye&space;" title="\\Respuesta\\La~densidad~de~flujo~disminuye " />
