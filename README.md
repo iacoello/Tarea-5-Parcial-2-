@@ -118,6 +118,16 @@ I1 = 18.8 mA I2 = 19.3 mA I3 = 16.2 mA I4 = 15.8 mA IL = 0.39 mA
 
 ![78](https://user-images.githubusercontent.com/93800511/149336061-03b0007c-80db-49a2-85d3-8677b8137f6f.png)
 
+<img src="https://latex.codecogs.com/svg.image?\sum&space;Mi&space;=0&space;&space;/&space;&space;\sum&space;M2&space;=0&space;" title="\sum Mi =0 / \sum M2 =0 " />
+
+<img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}1560I1&space;&-560I2&space;&space;&=-6&space;&space;\\&space;560I2&&space;-1380I2&space;&&space;=2&space;\\\end{matrix}\right.&space;" title="\left\{\begin{matrix}1560I1 &-560I2 &=-6 \\ 560I2& -1380I2 & =2 \\\end{matrix}\right. " />
+
+<img src="https://latex.codecogs.com/svg.image?VR1=5.11&space;" title="VR1=5.11 " />
+
+<img src="https://latex.codecogs.com/svg.image?VR2=2.89&space;" title="VR2=2.89 " />
+
+<img src="https://latex.codecogs.com/svg.image?VR3=890.4mV&space;" title="VR3=890.4mV " />
+
 
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
 
@@ -128,8 +138,6 @@ I1 = 18.8 mA I2 = 19.3 mA I3 = 16.2 mA I4 = 15.8 mA IL = 0.39 mA
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
 ![image](https://user-images.githubusercontent.com/93835587/149219324-1b73200d-163f-4255-b747-883604aabf9e.png)
-
-<img src="https://latex.codecogs.com/svg.image?\\R_{eq1}=&space;R_{2}\left|&space;\right|R_{4}\\R_{eq1}=\frac{4.7\cdot&space;2.2}{4.7&space;&plus;&space;2.2}&space;\\R_{eq1}=1.49\\R_{eq2}=&space;R_{3}\left|&space;\right|R_{5}\\R_{eq2}=\frac{8.2\cdot&space;3.9}{8.2&space;&plus;&space;3.9}\\R_{eq2}=2.64\\R_{eqT}=&space;R_{1}\left|&space;\right|R_{2}\\R_{eqT}=&space;\frac{2.64\cdot&space;1.49}{2.64&space;&plus;&space;1.49}\\R_{eqT}=0.952\\V_{AB}=\frac{0.952}{0.952&plus;10}\\V_{AB}=695mA&space;" title="\\R_{eq1}= R_{2}\left| \right|R_{4}\\R_{eq1}=\frac{4.7\cdot 2.2}{4.7 + 2.2} \\R_{eq1}=1.49\\R_{eq2}= R_{3}\left| \right|R_{5}\\R_{eq2}=\frac{8.2\cdot 3.9}{8.2 + 3.9}\\R_{eq2}=2.64\\R_{eqT}= R_{1}\left| \right|R_{2}\\R_{eqT}= \frac{2.64\cdot 1.49}{2.64 + 1.49}\\R_{eqT}=0.952\\V_{AB}=\frac{0.952}{0.952+10}\\V_{AB}=695mA " />
 
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
