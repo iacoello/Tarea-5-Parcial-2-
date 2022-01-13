@@ -105,25 +105,80 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221956-78c7ebe2-87d9-4bab-b3b1-060578675355.png)
 
-1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~densidad~de~flujo~disminuye&space;" title="\\Respuesta\\La~densidad~de~flujo~disminuye " />
 
-3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10-66 T y el área
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10-66 T y el área
 de sección transversal mide 150 cm2?
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta\\Flujo~magnetico=\Phi&space;=B\cdot&space;A\\Donde~A\to&space;Area~del~campo~magnetico~y~B\to&space;Campo~magnetico\\&space;Solucion\\\Phi&space;=B\cdot&space;A&space;\\\Phi&space;=2500\times&space;10^{-66}\cdot&space;150\\\Phi&space;=3.75\times&space;10^{-60}&space;\to&space;37.5\mu&space;Wb" title="\\Respuesta\\Flujo~magnetico=\Phi =B\cdot A\\Donde~A\to Area~del~campo~magnetico~y~B\to Campo~magnetico\\ Solucion\\\Phi =B\cdot A \\\Phi =2500\times 10^{-66}\cdot 150\\\Phi =3.75\times 10^{-60} \to 37.5\mu Wb" />
 
-5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
-flujo en gauss.
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~densidad~de~flujo~en~gauss~es~de\\1000G&space;" title="\\Respuesta\\La~densidad~de~flujo~en~gauss~es~de\\1000G " />
+![image](https://user-images.githubusercontent.com/93835533/149277035-dd09d1d0-8603-4f50-982f-7cbf4b25042f.png)
 
-7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
-750 x 10-6 Wb/At·m?
+ 7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 X 10(^-6) Wb/At·m?
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\La~permeabilidad~relativa~es~de~597\\Solucion\\B=&space;\frac{\mu&space;_{0}&space;}{4\pi}\\B=&space;\frac{750\times&space;10^{-6}}{4\pi}&space;\\B=5.968310\times&space;10^{-4}\to&space;597" title="\\Respuesta\\La~permeabilidad~relativa~es~de~597\\Solucion\\B= \frac{\mu _{0} }{4\pi}\\B= \frac{750\times 10^{-6}}{4\pi} \\B=5.968310\times 10^{-4}\to 597" />
+![image](https://user-images.githubusercontent.com/93835533/149277183-2f27790f-57d8-4360-9a1a-237e0fb4f44e.png)
 
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+
+![image](https://user-images.githubusercontent.com/93835533/149277306-13717b88-bc58-482b-91a8-681664d6c600.png)
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? 
+
+    Cuando el solenoide se activa o se energiza el campo electromagnético magnetiza ambos núcleos de hierro. El polo sur del núcleo estacionario atrae al polo norte del núcleo móvil     (émbolo) y causa que se deslice hacia dentro, con lo cual se retrae el émbolo y comprime al resorte.
+
+     (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+     
+     Cuando la corriente en el solenoide se interrumpe la fuerza que actúa para regresar al imán a su posición de no energizado (no voltaje o corriente) es la fuerza del resorte, que      empuja al émbolo hacia atrás llevándolo a la posición de reposo.    
+     
+  13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+Cuando el campo electromagnético interactúa con el campo magnético permanente, se ejercen fuerzas en el ensamble de bobina rotatoria, lo cual provoca que ésta gire en el sentido de las manecillas del reloj y, por tanto, la aguja se deflexiona.
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
+
+![image](https://user-images.githubusercontent.com/93835533/149277699-9f6ca086-6e67-48bd-a7f5-77aadf2671eb.png)
+
+Para cambiar la densidad de flujo (B) es necesario cambiar la Corriente (I), debido a la fuerza magnetomotriz ya que al incrementarse o reducirse, también incrementa o se reduce el flujo y con ello la densidad del flujo magnético y la intensidad del campo magnético se reduce o incrementa con facilidad.  
+
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
+![image](https://user-images.githubusercontent.com/93835533/149277747-2ba0c085-6fb9-4dc2-947c-a655d8cf7445.png)
+
+El material A tiene mayor retentividad debido a que su valor residual (BR) es el único valor más cercano al valor de saturación de B.
+
+![image](https://user-images.githubusercontent.com/93835533/149277766-33e274c3-854c-4056-8ace-25aa0e638847.png)
+
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+El voltaje inducido (vind) es el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético y depende de tres factores que se presentan a continuación:
+
+•	Densidad de flujo (B) y con ello la intensidad del campo magnético (H).
+
+•	Longitud del conductor (l) expuesta al campo magnético.
+
+•	Velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro (velocidad de rotación del conductor). 
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+Mientras que la ley de Lenz define la polaridad o dirección del voltaje inducido, la polaridad del voltaje inducido siempre se opone al cambio de corriente. La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina 
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+
+![image](https://user-images.githubusercontent.com/93835533/149277977-9ad02d92-3313-4f42-9413-d875361fc547.png)
+
+Cada una de las mitades del anillo partido (conmutador) frota contra los contactos fijos, llamados escobillas, y conecta la espira de alambre conductor a un circuito externo.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![image](https://user-images.githubusercontent.com/93835533/149278009-8d964b3e-74c9-4a55-8029-2e02f207986c.png)
+
+
+
+     
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
