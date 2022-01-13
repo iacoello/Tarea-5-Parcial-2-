@@ -73,6 +73,16 @@ I2=-15/105
 
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
+<img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}2&space;&&space;-6&space;&space;&&space;10&space;\\&space;3&&space;7&space;&&space;-8&space;\\&space;10&&space;5&&space;-12&space;\\&space;2&&space;-6&space;&10&space;&space;\\&space;3&7&&space;-8&space;\\\end{vmatrix}" title="\begin{vmatrix}2 & -6 & 10 \\ 3& 7 & -8 \\ 10& 5& -12 \\ 2& -6 &10 \\ 3&7& -8 \\\end{vmatrix}" />
+
+<img src="https://latex.codecogs.com/svg.image?=(-168&plus;150&plus;480)-(-700&plus;80&plus;216)=-374" title="=(-168+150+480)-(-700+80+216)=-374" />
+
+<img src="https://latex.codecogs.com/svg.image?Para&space;1=(-750&plus;150&plus;0)-(0-360&plus;216)/-374=1.22A" title="Para 1=(-750+150+0)-(0-360+216)/-374=1.22A" />
+
+<img src="https://latex.codecogs.com/svg.image?Para&space;2=(-72&plus;0-720)-(300&plus;0&plus;324)/-374=2.05A" title="Para 2=(-72+0-720)-(300+0+324)/-374=2.05A" />
+
+<img src="https://latex.codecogs.com/svg.image?Para&space;3=(0&plus;135-180)-(630&plus;30&plus;0)/-3740-1.88A" title="Para 3=(0+135-180)-(630+30+0)/-3740-1.88A" />
+
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
@@ -115,8 +125,6 @@ de la corriente.
 ![image](https://user-images.githubusercontent.com/93835587/149221845-25e63a20-6276-4106-808f-a4f42e0263d3.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO_{A}\to&space;&space;I_{1}-I_{2}-I_{3}=&space;0\\NODO_{B}&space;\to&space;&space;I_{3}-I_{4}-I_{5}=&space;0\\I_{1}&space;=&space;\frac{9V-V_{A}}{R_{1}}\\I_{2}=&space;\frac{V_{A}}{R_{2}}\\I_{3}=&space;\frac{V_{A}-V_{B}}{R_{3}}\\I_{4}=&space;\frac{V_{B}&plus;4.5V}{R_{4}}\\I_{5}=&space;&space;\frac{V_{B}&plus;1.5V}{R_{5}}" title="\\NODO_{A}\to I_{1}-I_{2}-I_{3}= 0\\NODO_{B} \to I_{3}-I_{4}-I_{5}= 0\\I_{1} = \frac{9V-V_{A}}{R_{1}}\\I_{2}= \frac{V_{A}}{R_{2}}\\I_{3}= \frac{V_{A}-V_{B}}{R_{3}}\\I_{4}= \frac{V_{B}+4.5V}{R_{4}}\\I_{5}= \frac{V_{B}+1.5V}{R_{5}}" />
-
-<img src="https://latex.codecogs.com/svg.image?\\DETERMINANTE:CARACTERISTICO\\\\\begin{vmatrix}-0.0659&space;&&space;0.0109&space;\\0.0109&space;&space;&&space;-0.0535&space;\\\end{vmatrix}=&space;0.0034\\0.0034V_{A}=&space;\begin{vmatrix}-0.0659&space;&&space;0.0109&space;\\0.3193&space;&space;&&space;-0.0535&space;\\\end{vmatrix}=&space;0.0051\\V_{A}=&space;\frac{0.0051}{0.0034}\to&space;V_{A}=1.5V\\0.0034V_{B}=&space;\begin{vmatrix}-0.0659&space;&&space;0.1607&space;\\0.0109&space;&space;&&space;-0.3193&space;\\\end{vmatrix}=&space;-0.0192\\V_{B}=&space;\frac{&space;-0.0192}{0.0034}\to&space;V_{A}=-5.65V&space;" title="\\DETERMINANTE:CARACTERISTICO\\\\\begin{vmatrix}-0.0659 & 0.0109 \\0.0109 & -0.0535 \\\end{vmatrix}= 0.0034\\0.0034V_{A}= \begin{vmatrix}-0.0659 & 0.0109 \\0.3193 & -0.0535 \\\end{vmatrix}= 0.0051\\V_{A}= \frac{0.0051}{0.0034}\to V_{A}=1.5V\\0.0034V_{B}= \begin{vmatrix}-0.0659 & 0.1607 \\0.0109 & -0.3193 \\\end{vmatrix}= -0.0192\\V_{B}= \frac{ -0.0192}{0.0034}\to V_{A}=-5.65V " />
 
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
