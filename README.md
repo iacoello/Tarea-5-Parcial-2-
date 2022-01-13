@@ -85,6 +85,10 @@ I2=-15/105
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
+I1 = -.056363148617
+
+I2 = .07218287729
+
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
 en la figura 9-26.
 
@@ -93,15 +97,33 @@ I1-I2+I3=0
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
 la polaridad real.
 
+![78](https://user-images.githubusercontent.com/93800511/149335873-7abe1c04-8a4f-4034-bd97-35c250845506.png)
+
+VB = 4.04 V
+
 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
+![78](https://user-images.githubusercontent.com/93800511/149335956-b2446606-cacd-4d77-ada1-2d3ac06e1203.png)
+
+V1 = 7.68 V V2 = 8.25 V V3 = 0.6 V V4 = 3.73 V VL = 4.32 V
+
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+![78](https://user-images.githubusercontent.com/93800511/149336048-5b0e4f47-99c1-481e-8ead-6ccbd9494cfc.png)
+
+I1 = 18.8 mA I2 = 19.3 mA I3 = 16.2 mA I4 = 15.8 mA IL = 0.39 mA
 
 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura
 9-28.
 
+![78](https://user-images.githubusercontent.com/93800511/149336061-03b0007c-80db-49a2-85d3-8677b8137f6f.png)
+
+
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
 
+![78](https://user-images.githubusercontent.com/93800511/149336083-1ffc39cf-c85e-46d1-82e0-0f97fe1da677.png)
+
+I1 = 18.8 mA I2 = 19.3 mA I3 = 16.2 mA I4 = 15.8 mA IL = 0.39 mA
 
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
