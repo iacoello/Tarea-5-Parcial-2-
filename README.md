@@ -129,6 +129,8 @@ I1 = 18.8 mA I2 = 19.3 mA I3 = 16.2 mA I4 = 15.8 mA IL = 0.39 mA
 
 ![image](https://user-images.githubusercontent.com/93835587/149219324-1b73200d-163f-4255-b747-883604aabf9e.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\R_{eq1}=&space;R_{2}\left|&space;\right|R_{4}\\R_{eq1}=\frac{4.7\cdot&space;2.2}{4.7&space;&plus;&space;2.2}&space;\\R_{eq1}=1.49\\R_{eq2}=&space;R_{3}\left|&space;\right|R_{5}\\R_{eq2}=\frac{8.2\cdot&space;3.9}{8.2&space;&plus;&space;3.9}\\R_{eq2}=2.64\\R_{eqT}=&space;R_{1}\left|&space;\right|R_{2}\\R_{eqT}=&space;\frac{2.64\cdot&space;1.49}{2.64&space;&plus;&space;1.49}\\R_{eqT}=0.952\\V_{AB}=\frac{0.952}{0.952&plus;10}\\V_{AB}=695mA&space;" title="\\R_{eq1}= R_{2}\left| \right|R_{4}\\R_{eq1}=\frac{4.7\cdot 2.2}{4.7 + 2.2} \\R_{eq1}=1.49\\R_{eq2}= R_{3}\left| \right|R_{5}\\R_{eq2}=\frac{8.2\cdot 3.9}{8.2 + 3.9}\\R_{eq2}=2.64\\R_{eqT}= R_{1}\left| \right|R_{2}\\R_{eqT}= \frac{2.64\cdot 1.49}{2.64 + 1.49}\\R_{eqT}=0.952\\V_{AB}=\frac{0.952}{0.952+10}\\V_{AB}=695mA " />
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
 ![image](https://user-images.githubusercontent.com/93835587/149221654-032e7977-154f-4098-b794-668af4c59ab5.png)
